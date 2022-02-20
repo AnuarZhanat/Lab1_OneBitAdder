@@ -1,5 +1,7 @@
 # Lab1_OneBitAdder
 
+The YouTube video link: https://youtu.be/mssYSkxJPhI
+
 ## Part1
 
 The verilator was installed on Ubuntu.
