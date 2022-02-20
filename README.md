@@ -25,4 +25,4 @@ The random inputs were added by:
     
 You can see the result of "one_bit_adder.vcd" below by GTKwave.
 
-![Alt text](images/part2.png?raw=true "The result of "one_bit_adder.vcd" below by GTKwave")
+![Alt text](images/part2.png?raw=true "The result of one_bit_adder.vcd below by GTKwave")
